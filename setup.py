@@ -9,7 +9,7 @@ REQUIRES = [
 setup(
     name='db_client',
     version='0.0.1',
-    packages=[''],
+    packages=['db_client'],
     url='https://github.com/DoraSigulia/db_client.git',
     license='MIT',
     author='Daria Sigulya',
